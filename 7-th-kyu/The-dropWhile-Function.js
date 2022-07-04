@@ -1,0 +1,3 @@
+function dropWhile(arr, pred) {
+   
+ }
